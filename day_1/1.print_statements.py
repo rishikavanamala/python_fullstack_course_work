@@ -1,0 +1,6 @@
+print("om")
+print("hello world")
+print("python full stack")
+print("loreum")
+print("laptop")
+print("rishika vanamala")
