@@ -1,0 +1,16 @@
+product_name=input("Enter the product:")
+stock=int(input("Enter the available stock:"))
+price=float(input("Enter the price:"))
+RAM=eval(input("Enter the RAM sizes:"))
+reviews=eval(input("Enter the reviews:"))
+payment_mode=eval(input("Enter the payment type:"))
+brand=eval(input("Enter the brand details:"))
+print(f"product name:{product_name}")
+print(f"stock:{stock}")
+print(f"price:{price}")
+print(f"RAM:{RAM}")
+print(f"Reviews:{reviews}")
+print(f"payment_mode:{payment_mode}")
+print(f"brand:{brand}")
+
+      
