@@ -1,0 +1,39 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Alice",
+      "age": 23,
+      "city": "New York",
+      "score": 88
+    },
+    {
+      "id": 2,
+      "name": "Bob",
+      "age": 25,
+      "city": "Los Angeles",
+      "score": 92
+    },
+    {
+      "id": 3,
+      "name": "Charlie",
+      "age": 22,
+      "city": "Chicago",
+      "score": 79
+    },
+    {
+      "id": 4,
+      "name": "David",
+      "age": 24,
+      "city": "Houston",
+      "score": 85
+    },
+    {
+      "id": 5,
+      "name": "Eva",
+      "age": 21,
+      "city": "Boston",
+      "score": 90
+    }
+  ]
+}

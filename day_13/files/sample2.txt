@@ -1,0 +1,17 @@
+Welcome to the Sample Text File
+-------------------------------
+This file is used to practice file handling in Python.
+
+Details:
+Name: Alex Johnson
+Age: 21
+Department: Computer Science
+
+Courses:
+- Python Programming
+- Data Structures
+- Database Management
+
+Notes:
+Learning Python file operations like read, write, and update.
+This is the end of the sample text file.
